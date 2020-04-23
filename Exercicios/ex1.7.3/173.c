@@ -4,6 +4,7 @@ Autor: Renan Zimerman Leite
 Data: 23/04/2020
 ---------------------------------------------------------------------------*/
 
+#include <stdio.h>
 #include <locale.h>
 
 int main()
